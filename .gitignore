@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+*.sqlite
+/Data/bin/Debug/netstandard2.0
+/Data/obj
+/oDataProject/.vs/oDataProject
+/oDataProject/bin/Debug/netcoreapp3.1
+/oDataProject/obj
+*.user
